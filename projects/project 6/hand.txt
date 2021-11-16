@@ -1,0 +1,5 @@
+I used the four classes to structure the program as specified in the book:
+Main, Parser, SymbolTable & Code.
+
+I tested my program files on the Assembler using them as a comparison to the corresponding .asm file (e.g.
+running Max.asm and comparing with my hack code.) It worked for all of them (Max, MaxL, Add, AddL, Rect, RectL, Fill, and Mult)
